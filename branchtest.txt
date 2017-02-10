@@ -1,0 +1,1 @@
+testin gif add file to a working branch, does it keep away from the master branch and other branches
